@@ -26,5 +26,4 @@ This project is under development. New features and improvements will be added g
 ## Author
 
 **Aristidia Tembe**
-
-[GitHub Profile](https://github.com/aristidiatembe-dev)
+(https://github.com/aristidiatembe-dev)
